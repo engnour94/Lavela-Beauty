@@ -11,7 +11,7 @@ if(buy==true){
     alert("she is a buyer");
 }
 else{
-    alert("she i a vieitor");
+    alert("she is a visitor");
 }
 
 
