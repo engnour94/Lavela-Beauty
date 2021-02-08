@@ -25,7 +25,7 @@ if(order =="foundation"){
 }
 else if (order =="eye pallettes")
 {
-    itemorder = '<img src ="e.jpg" width="50"; height="50";>';
+    itemorder = '<img src ="e.jpg" width="100"; height="100";>';
 }
 else if (order =="nails")
  { itemorder = '<img src ="n.jpg" width="100"; height="100";>'; 
